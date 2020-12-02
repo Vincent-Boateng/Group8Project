@@ -1,4 +1,10 @@
 public class Afrooz {
 
-  Hello I am hear!
+
+  public static void main(String[] args) {
+
+    System.out.println("Hello I am hear!");
+
+  }
+
 }
