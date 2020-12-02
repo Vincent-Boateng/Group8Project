@@ -8,5 +8,7 @@ public class Group8FirstCollaboration {
         //I will send an invitation to everyone
 
         //I need this comment to show up in Github
+
+        // Thank you Vincent fot creating this project
     }
 }
